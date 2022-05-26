@@ -1,0 +1,12 @@
+print('"\n'
+      '\n'
+      '\n'
+      '\n'
+      '\n                             In case I don´t see ya,'
+      '\n                             good afternoon,'
+      '\n                             good evening,'
+      '\n                             and good night!"'
+      '\n'
+      '\n'
+      '\n'
+      '\n')
